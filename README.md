@@ -26,7 +26,7 @@ Comprometido con la excelencia, perfecciono mis habilidades como Experto en Peop
 ## EXPERIENCIA LABORAL.
 
 ### Alisys (abril 2023-Actualidad). 
-Senior Tech & Digital Talent Acquisition. 
+#### Senior Tech & Digital Talent Acquisition. 
 Responsable la totalidad del proceso de selección, desde la detención de la necesidad (Breafing con el cliente interno) hasta la incorporación y seguimiento de perfiles IT (Infraestructuras con Cloud Privada, Telecomunicaciones, Desarrollo de Sw, Analítica de Datos, Ciberseguridad,…). 
  
 •	Análisis de las necesidades y vacantes, para obtener los mejores resultados del mercado.
@@ -37,7 +37,7 @@ Responsable la totalidad del proceso de selección, desde la detención de la ne
 •	Seguimiento y fidelización.
 
 ### SegurCaixa Adeslas (enero 2023-marzo 2023). 
-Senior Tech & Digital Talent Acquisition. 
+#### Senior Tech & Digital Talent Acquisition. 
 Responsable del Plan de transformación digital, que afecta a la SubDirección General de Medios y Transformación. 
  
 •	Coordinar las iniciativas de transformación digital: Selección, Formación y Engagement. 
@@ -49,7 +49,7 @@ Responsable del Plan de transformación digital, que afecta a la SubDirección G
 •	Analizar y realizar seguimiento de áreas con alta tasa de rotación (Seguridad y Desarrollo).
  
 ### Mobile One2One (febrero 2016-diciembre 2022).
-HRBP / Senior Tech & Digital Talent Acquisition. 
+#### HRBP / Senior Tech & Digital Talent Acquisition. 
 Responsable de captación y desarrollo de perfiles tecnológicos con experiencia en transformación digital, aplicaciones móviles IOS y Android, desarrollo web, dirección creativa, UX/UI, SEM, SEO, ASO, Content Manager, Copywriter, Compra programática, Analítica de datos y estrategia. 
  
 •	Definir la estrategia de reclutamiento y llevarla a cabo, al tratarse de un departamento de nueva creación. Ampliando los canales de reclutamiento donde hay una mayor presencia e interacción de perfiles IT (Discord, Malt, Foros, Bolsas de empleo,…).
@@ -63,14 +63,15 @@ Responsable de captación y desarrollo de perfiles tecnológicos con experiencia
 •	Analizar y liderar iniciativas que han permitido reducir la tasa de rotación, de 37% en 2018 a 7,2% en 2022. 
  
 ### Vipirsa (enero 2014-enero 2016). 
-HR Consultant. 
+#### HR Consultant. 
 Reportando a la Directora de Servicios Generales en Indra. Especializado en perfiles del sector tecnológico (Desarrollo Backend / Frontend, Movilidad nativa e Hibrida, ERP, Redes) y digital (Consultor IT, Marketing, UX/UI, Big Data). 
  
 •	Definir perfiles, gestionar y elaborar informes de seguimiento de los profesionales seleccionados. 
 •	Gestionar los procesos de selección asignados por Indra (15 procesos de media mensual) por medio de su ATS. 
 •	Analizar las necesidades de cada una de las áreas y liderar la interlocución con las mismas (Indra Sistemas, Indra Sw Labs e Indra BPO). 
 
-### Indra (febrero 2011-julio 2013). Responsable de Selección
+### Indra (febrero 2011-julio 2013). 
+#### Responsable de Selección
 Reportando al Gerente del Departamento de Subcontrataciones del Grupo Indra, Especializado en perfiles del sector tecnológico (Desarrollo Backend / Frontend, Movilidad nativa e Hibrida, ERP, Redes) y digital (Consultor IT, Marketing, UX/UI, Big Data). 
  
 •	Gestionar la Selección en el Departamento de Subcontratación (Nacional e Internacional) por medio de ATS corporativo, con un promedio de 150 ofertas al año. 
