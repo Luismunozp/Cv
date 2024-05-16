@@ -25,18 +25,18 @@ Comprometido con la excelencia, perfecciono mis habilidades como Experto en Peop
 
 ## EXPERIENCIA LABORAL.
 
-### Alisys (abril 2023-Actualidad). 
+### Publicis Groupe Spain (mayo 2024-Actualidad). 
 #### Senior Tech & Digital Talent Acquisition. 
-Responsable la totalidad del proceso de selección, desde la detención de la necesidad (Breafing con el cliente interno) hasta la incorporación y seguimiento de perfiles IT (Infraestructuras con Cloud Privada, Telecomunicaciones, Desarrollo de Sw, Analítica de Datos, Ciberseguridad,…). 
- 
-•	Análisis de las necesidades y vacantes, para obtener los mejores resultados del mercado.
-•	Headhunting de vacantes (Desarrollo Sw, Analítica de texto, Ciberseguridad, Infraestructura, QA, Soporte, UX/UI, RTB, Desarrollo de Negocio Digital,…) y creación de Talent Pool de candidatos.
-•	Búsqueda de Talento por medio de los canales tradicionales (LinkedIn) y comunidades Tecnológicas.
-•	Entrevistas técnicas y competencias.
-•	Preparación de informes y Dashboards (métricas, KPIs, OKR).
-•	Seguimiento y fidelización.
+Publicis Groupe, tercer grupo de comunicación a nivel mundial, es una plataforma de soluciones que está presente en más de 100 países y cuenta con más de 84.000 colaboradores. Con una filosofía única de trabajo, The Power of One, coloca a los clientes en el centro promoviendo el crecimiento de su negocio a través de agencias creativas (Publicis, Leo Burnett, Saatchi & Saatchi, Publicis Health, Wysiwyg, Nurun y Digitas), de medios (Zenith, Starcom, Spark y Performics), y áreas de conocimiento transversal. Publicis Groupe enlaza Creatividad, Tecnología y Data ofreciendo una propuesta de valor que consigue conectar eficazmente marca y consumidor.
 
-### SegurCaixa Adeslas (enero 2023-marzo 2023). 
+•	Dirigir los procesos de contratación de principio a fin para encontrar a los mejores talentos, desempeñando un papel activo en la búsqueda, la preselección, las entrevistas y la colaboración con los responsables de contratación para satisfacer sus necesidades y ofrecer la mejor experiencia a los candidatos.
+•	Desarrollar la estrategia de contratación. Esto puede incluir la optimización de los anuncios de empleo, el desarrollo de canales de marketing de reclutamiento, la adquisición de bolsas de trabajo, el marketing de empleo digital y no digital, la planificación de campañas de reclutamiento integrales, la planificación del talento, etc.
+•	Búsqueda de Talento por medio de los canales tradicionales (LinkedIn) y comunidades Creativas.
+•	Trabajar estrechamente con el equipo de talento para anticipar nuevas contrataciones y nuevas formas de mejorar el proceso.
+•	Búsqueda de candidatos para vacantes inmediatas y para nuestras reservas de talento, utilizando una variedad de métodos de búsqueda directa, incluyendo LinkedIn, bolsas de trabajo, publicidad, 
+participación en las redes sociales, redes y referencias de empleados.
+
+### SegurCaixa Adeslas (enero 2023-septiembre 2023). 
 #### Senior Tech & Digital Talent Acquisition. 
 Responsable del Plan de transformación digital, que afecta a la SubDirección General de Medios y Transformación. 
  
@@ -84,7 +84,7 @@ Reportando al Gerente del Departamento de Subcontrataciones del Grupo Indra, Esp
 
 ### Licenciado en Psicología, por la Universidad Complutense de Madrid (1998-2004). 
  
-### Cursando Programa Experto en People Analytics y Digitalización de RRHH en MBIT. 
+### Programa Experto en People Analytics y Digitalización de RRHH en MBIT (2023-2024). [MBIT](https://www.mbitschool.com/)
 
 ## ENLACES
 - [LinkedIn](https://www.linkedin.com/in/luismu%C3%B1ozp/)
