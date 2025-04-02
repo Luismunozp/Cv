@@ -25,7 +25,21 @@ Comprometido con la excelencia, perfecciono mis habilidades como Experto en Peop
 
 ## EXPERIENCIA LABORAL.
 
-### Publicis Groupe Spain (mayo 2024-Actualidad). 
+### Optimissa (enero 2025-actualidad). 
+#### People Manager / HRBP. 
+Como People Manager, mi rol se centra en alinear las estrategias del Departamento de Cultura y Talento con los objetivos de negocio para impulsar el crecimiento organizacional, diseñando e implementando una estrategia corporativa en la que unir a Cultura y Talento con el resto de áreas de trabajo y negocio en Optimissa, división de Tecnologia de Banca y Seguros del Grupo Alten.
+
+•	Gestión del talento: Desarrollo e implementación de estrategias de adquisición y retención de talento, incluyendo procesos de reclutamiento, selección y onboarding.
+• Desarrollo organizacional: Diseño y ejecución de programas de desarrollo profesional y planes de sucesión para fomentar el crecimiento y la promoción interna.
+• Relaciones laborales: Mediación y resolución de conflictos laborales, asegurando un ambiente de trabajo positivo y colaborativo.
+• Gestión del talento: Implementación de sistemas de evaluación del desempeño, feedback continuo y planes de mejora individual.
+• Compensación y beneficios: Diseño y administración de paquetes de compensación y beneficios competitivos para atraer y retener talento.
+• Cumplimiento normativo: Aseguramiento del cumplimiento de las leyes laborales y políticas internas de la empresa.
+• Cultura y clima organizacional: Promoción de una cultura organizacional inclusiva y diversa, y realización de encuestas de clima laboral para identificar áreas de mejora.
+• Análisis de datos: Uso de análisis de datos y métricas de recursos humanos para tomar decisiones informadas y estratégicas.
+• Liderazgo y coaching: Provisión de coaching y apoyo a líderes y managers para mejorar sus habilidades de gestión y liderazgo.
+
+### Publicis Groupe Spain (mayo 2024-diciembre 2024). 
 #### Senior Tech & Digital Talent Acquisition. 
 Publicis Groupe, tercer grupo de comunicación a nivel mundial, es una plataforma de soluciones que está presente en más de 100 países y cuenta con más de 84.000 colaboradores. Con una filosofía única de trabajo, The Power of One, coloca a los clientes en el centro promoviendo el crecimiento de su negocio a través de agencias creativas (Publicis, Leo Burnett, Saatchi & Saatchi, Publicis Health, Wysiwyg, Nurun y Digitas), de medios (Zenith, Starcom, Spark y Performics), y áreas de conocimiento transversal. Publicis Groupe enlaza Creatividad, Tecnología y Data ofreciendo una propuesta de valor que consigue conectar eficazmente marca y consumidor.
 
@@ -37,7 +51,7 @@ Publicis Groupe, tercer grupo de comunicación a nivel mundial, es una plataform
 participación en las redes sociales, redes y referencias de empleados.
 
 ### SegurCaixa Adeslas (enero 2023-septiembre 2023). 
-#### Senior Tech & Digital Talent Acquisition. 
+#### HRBP. 
 Responsable del Plan de transformación digital, que afecta a la SubDirección General de Medios y Transformación. 
  
 •	Coordinar las iniciativas de transformación digital: Selección, Formación y Engagement. 
